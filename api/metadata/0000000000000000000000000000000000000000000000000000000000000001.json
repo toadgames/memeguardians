@@ -1,6 +1,6 @@
 {
   "name": "Gyroscooter",
   "description": "Allows you to travel faster in open world areas, with style.\nCan be painted.",
-  "type": "Mount",
+  "type": "mount",
   "image": "https://meme-guardians.com/api/img/Gyroscooter.png"
 }
